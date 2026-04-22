@@ -1,0 +1,297 @@
+TITLE: CIT 5-Year Integrated M.Sc. Programmes Brochure
+INSTITUTION: Coimbatore Institute of Technology (CIT), Coimbatore
+
+================================================================================
+SECTION: INSTITUTION DETAILS
+================================================================================
+Institution Name: Coimbatore Institute of Technology (CIT)
+Type: Government Aided Autonomous Institution
+Affiliation: Anna University, Chennai
+
+Address:
+- Civil Aerodrome (PO), Coimbatore - 641014
+
+Programme Type:
+- 5-Year Integrated M.Sc. Programmes
+
+
+================================================================================
+SECTION: DEPARTMENT OF COMPUTING - OVERVIEW
+================================================================================
+
+Department:
+- Department of Computing
+
+Programs Offered:
+- 5-Year Integrated M.Sc. Programmes in software and digital technologies
+
+Faculty Strength:
+- Total Faculty: 43
+- Ph.D Holders: 36
+
+Infrastructure:
+- State-of-the-art infrastructure for enhanced learning outcomes
+
+
+================================================================================
+SECTION: PROGRAMME HIGHLIGHTS
+================================================================================
+
+Key Features:
+- Two 6-month internships during:
+  - 7th semester
+  - 10th semester
+
+Internship Locations:
+- Industries
+- Institutions of eminence
+- R&D laboratories
+
+Academic Advantages:
+- International collaborations
+- Credit transfer options
+- Semester abroad opportunities
+- Internship opportunities abroad
+
+Faculty Support:
+- Visiting faculty from industry
+- Adjunct faculty from premier institutions
+
+Learning Approach:
+- Industry-aligned curriculum
+- Advanced specializations
+- Hackathons with industry sponsorship
+
+Support System:
+- Strong alumni network
+
+
+================================================================================
+SECTION: M.Sc. SOFTWARE SYSTEMS
+================================================================================
+
+Programme:
+- M.Sc. Software Systems
+- Since: 1998
+
+Focus:
+- Core computing courses
+- Applied technologies
+- Research-oriented learning
+
+Skill Development:
+- Problem-solving skills
+- Communication skills
+
+Specializations:
+- Quantum Computing
+- Cloud Computing
+- Full Stack Development
+- Internet of Things (IoT)
+- Artificial Intelligence
+- Data Analytics
+
+Outcome:
+- Lifelong learning and seamless progression
+
+
+================================================================================
+SECTION: M.Sc. DATA SCIENCE
+================================================================================
+
+Programme:
+- M.Sc. Data Science
+- Since: 2016
+
+Focus:
+- Integration of Mathematics, Statistics, Computer Science
+
+Skills:
+- Analytical solution development
+- Research orientation
+
+Outcome:
+- Industry-ready Data Scientists and Analysts
+
+
+================================================================================
+SECTION: M.Sc. DECISION AND COMPUTING SCIENCES
+================================================================================
+
+Programme:
+- M.Sc. Decision and Computing Sciences
+- Since: 2017
+
+Focus:
+- Integration of technology and management
+
+Suitable For:
+- Science students
+- Commerce students
+
+Specializations:
+- Software Systems
+- Business Analytics
+- Artificial Intelligence & Machine Learning
+- Decision Intelligence
+
+Outcome:
+- Industry-ready decision scientists
+
+
+================================================================================
+SECTION: M.Sc. ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+================================================================================
+
+Programme:
+- M.Sc. Artificial Intelligence and Machine Learning
+- Since: 2019
+
+Focus:
+- Strong foundation in Mathematics, Statistics, and Computing
+
+Objectives:
+- Develop industry-ready AI professionals
+- Encourage innovation and leadership
+
+Skill Development:
+- Analytical thinking
+- Programming skills
+- Creative problem solving
+
+
+================================================================================
+SECTION: PLACEMENTS AND INTERNSHIPS
+================================================================================
+
+Highest Package:
+- Rs. 58 Lakhs per annum
+
+Special Internship:
+- KLA Corporation Internship:
+  - Stipend: Rs. 75,000 per month
+  - Job Offer: Rs. 29 Lakhs per annum
+
+--------------------------------------------------
+
+Placement Recruiters:
+- D.E. Shaw & Co
+- Thorogood
+- Amazon
+- Deloitte
+- Oracle
+- KLA
+- EXL
+- IBM
+- Infosys
+- Rootquotient
+- Zoho
+- Soliton
+- SurveySparrow
+- LSEG
+- Accenture
+- SuperAGI
+- Yubi
+- Konnectify
+
+--------------------------------------------------
+
+Internship Companies:
+- EY
+- Justo Global
+- CaratLane
+- OptiSol
+- SPAN
+- Konnectify
+- Shaachi
+- Buckman
+- NGP
+
+--------------------------------------------------
+
+International Internship Universities:
+- UCF
+- ASU
+- UBC
+- NUS
+- Ontario Tech
+- Athabasca University
+- University of Malaya
+
+--------------------------------------------------
+
+Special Mention:
+- Microsoft Research India Internship:
+  - Student: K.S.R. Deepika
+  - Programme: MSc AIML
+  - Batch: 2022
+
+--------------------------------------------------
+
+Notable Student Placements at KLA:
+- L.B. Rithya (MSc Software Systems, 2021 Batch)
+- R. Tarunika (MSc Data Science, 2021 Batch)
+- R. Vaisaali Priyankaa (MSc Decision and Computing Sciences, 2022 Batch)
+- V. Bhooshitha (MSc AI & ML, 2022 Batch)
+
+
+================================================================================
+SECTION: ADMISSION ELIGIBILITY
+================================================================================
+
+Eligibility for:
+- M.Sc. Software Systems
+- M.Sc. Data Science
+- M.Sc. AI & ML
+
+Requirements:
+- Pass in HSC/equivalent examination
+- Subjects: Mathematics, Physics, Chemistry
+
+Minimum Marks:
+- 75% aggregate in Mathematics, Physics, and (Chemistry or Computer Science)
+- Applicable for candidates other than SC/ST
+
+--------------------------------------------------
+
+Eligibility for:
+- M.Sc. Decision and Computing Sciences
+
+Option 1:
+- HSC with Mathematics, Physics, Chemistry
+- 75% aggregate required (for non-SC/ST)
+
+Option 2:
+- One subject from Category A
+- Two subjects from Category B
+
+Category A:
+- Mathematics
+- Applied Mathematics
+- Statistics
+- Business Mathematics
+- Business Mathematics & Statistics
+
+Category B:
+- Commerce
+- Economics
+- Accountancy
+- Computer Science
+
+Minimum Marks:
+- 75% aggregate (for non-SC/ST)
+
+
+================================================================================
+SECTION: ADMISSION CONTACT DETAILS
+================================================================================
+
+Admission Coordinator:
+- Name: Mr. K. Dhandapani
+- Phone: +91 94883 16334
+
+Website:
+- www.cit.edu.in
+
+
+

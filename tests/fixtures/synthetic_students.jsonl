@@ -1,0 +1,200 @@
+{"student_id": "SYN_S_0", "subjects": ["Biology"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_1", "subjects": ["Data Science"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_2", "subjects": ["Calculus"], "learning_goals": ["Prepare for midterm", "Placement prep", "Homework help"]}
+{"student_id": "SYN_S_3", "subjects": ["Mathematics"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_4", "subjects": ["Advanced SQL"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_5", "subjects": ["Soft Skills"], "learning_goals": ["Prepare for midterm", "Placement prep", "Long-term project"]}
+{"student_id": "SYN_S_6", "subjects": ["Statistics"], "learning_goals": ["Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_7", "subjects": ["Data Science"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_8", "subjects": ["Mathematics"], "learning_goals": ["Exam review", "Long-term project"]}
+{"student_id": "SYN_S_9", "subjects": ["Communication"], "learning_goals": ["Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_10", "subjects": ["Machine Learning"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_11", "subjects": ["Linear Algebra"], "learning_goals": ["Exam review", "Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_12", "subjects": ["Statistics"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_13", "subjects": ["Advanced SQL"], "learning_goals": ["Exam review", "Placement prep", "Homework help"]}
+{"student_id": "SYN_S_14", "subjects": ["Communication"], "learning_goals": ["Prepare for midterm", "Homework help", "Long-term project"]}
+{"student_id": "SYN_S_15", "subjects": ["Database Basics"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_16", "subjects": ["Biology"], "learning_goals": ["Exam review", "Concept clarity"]}
+{"student_id": "SYN_S_17", "subjects": ["Linear Algebra"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_18", "subjects": ["Linear Algebra"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_19", "subjects": ["Data Science"], "learning_goals": ["Homework help", "Prepare for midterm", "Long-term project"]}
+{"student_id": "SYN_S_20", "subjects": ["Statistics"], "learning_goals": ["Long-term project", "Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_21", "subjects": ["Machine Learning"], "learning_goals": ["Homework help", "Placement prep"]}
+{"student_id": "SYN_S_22", "subjects": ["Computer Science"], "learning_goals": ["Exam review", "Prepare for midterm", "Long-term project"]}
+{"student_id": "SYN_S_23", "subjects": ["Advanced Calculus"], "learning_goals": ["Concept clarity", "Exam review"]}
+{"student_id": "SYN_S_24", "subjects": ["Advanced SQL"], "learning_goals": ["Placement prep"]}
+{"student_id": "SYN_S_25", "subjects": ["English"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_26", "subjects": ["Science"], "learning_goals": ["Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_27", "subjects": ["Calculus"], "learning_goals": ["Long-term project", "Homework help"]}
+{"student_id": "SYN_S_28", "subjects": ["Statistics"], "learning_goals": ["Exam review", "Placement prep", "Concept clarity"]}
+{"student_id": "SYN_S_29", "subjects": ["Machine Learning"], "learning_goals": ["Long-term project", "Homework help"]}
+{"student_id": "SYN_S_30", "subjects": ["Soft Skills"], "learning_goals": ["Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_31", "subjects": ["Biology"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_32", "subjects": ["Chemistry"], "learning_goals": ["Concept clarity", "Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_33", "subjects": ["Machine Learning"], "learning_goals": ["Placement prep", "Concept clarity"]}
+{"student_id": "SYN_S_34", "subjects": ["Soft Skills"], "learning_goals": ["Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_35", "subjects": ["Biology"], "learning_goals": ["Placement prep", "Exam review", "Homework help"]}
+{"student_id": "SYN_S_36", "subjects": ["Biology"], "learning_goals": ["Concept clarity", "Long-term project"]}
+{"student_id": "SYN_S_37", "subjects": ["Physics"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_38", "subjects": ["Data Science"], "learning_goals": ["Long-term project", "Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_39", "subjects": ["Database Basics"], "learning_goals": ["Placement prep", "Homework help", "Long-term project"]}
+{"student_id": "SYN_S_40", "subjects": ["Calculus"], "learning_goals": ["Long-term project", "Placement prep"]}
+{"student_id": "SYN_S_41", "subjects": ["Soft Skills"], "learning_goals": ["Placement prep"]}
+{"student_id": "SYN_S_42", "subjects": ["English"], "learning_goals": ["Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_43", "subjects": ["Linear Algebra"], "learning_goals": ["Long-term project", "Prepare for midterm"]}
+{"student_id": "SYN_S_44", "subjects": ["Computer Science"], "learning_goals": ["Prepare for midterm", "Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_45", "subjects": ["Advanced SQL"], "learning_goals": ["Long-term project", "Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_46", "subjects": ["Statistics"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_47", "subjects": ["Soft Skills"], "learning_goals": ["Concept clarity", "Long-term project", "Placement prep"]}
+{"student_id": "SYN_S_48", "subjects": ["Database Basics"], "learning_goals": ["Homework help", "Exam review"]}
+{"student_id": "SYN_S_49", "subjects": ["Physics"], "learning_goals": ["Concept clarity", "Prepare for midterm", "Long-term project"]}
+{"student_id": "SYN_S_50", "subjects": ["Computer Science"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_51", "subjects": ["Advanced Algebra"], "learning_goals": ["Placement prep", "Long-term project", "Homework help"]}
+{"student_id": "SYN_S_52", "subjects": ["Advanced Algebra"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_53", "subjects": ["Advanced Calculus"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_54", "subjects": ["Advanced Calculus"], "learning_goals": ["Prepare for midterm", "Placement prep"]}
+{"student_id": "SYN_S_55", "subjects": ["Computer Science"], "learning_goals": ["Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_56", "subjects": ["Communication"], "learning_goals": ["Long-term project", "Placement prep", "Concept clarity"]}
+{"student_id": "SYN_S_57", "subjects": ["Computer Science"], "learning_goals": ["Concept clarity", "Long-term project"]}
+{"student_id": "SYN_S_58", "subjects": ["Biology"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_59", "subjects": ["Mathematics"], "learning_goals": ["Concept clarity", "Homework help"]}
+{"student_id": "SYN_S_60", "subjects": ["Physics"], "learning_goals": ["Prepare for midterm", "Homework help", "Placement prep"]}
+{"student_id": "SYN_S_61", "subjects": ["Machine Learning"], "learning_goals": ["Exam review", "Prepare for midterm", "Long-term project"]}
+{"student_id": "SYN_S_62", "subjects": ["Communication"], "learning_goals": ["Placement prep"]}
+{"student_id": "SYN_S_63", "subjects": ["Physics"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_64", "subjects": ["Chemistry"], "learning_goals": ["Concept clarity", "Long-term project"]}
+{"student_id": "SYN_S_65", "subjects": ["Advanced SQL"], "learning_goals": ["Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_66", "subjects": ["Advanced Calculus"], "learning_goals": ["Placement prep", "Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_67", "subjects": ["Computer Science"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_68", "subjects": ["Science"], "learning_goals": ["Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_69", "subjects": ["Advanced Calculus"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_70", "subjects": ["Advanced Algebra"], "learning_goals": ["Exam review", "Concept clarity"]}
+{"student_id": "SYN_S_71", "subjects": ["Database Basics"], "learning_goals": ["Homework help", "Placement prep"]}
+{"student_id": "SYN_S_72", "subjects": ["Science"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_73", "subjects": ["Database Basics"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_74", "subjects": ["Statistics"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_75", "subjects": ["English"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_76", "subjects": ["Science"], "learning_goals": ["Placement prep", "Long-term project", "Prepare for midterm"]}
+{"student_id": "SYN_S_77", "subjects": ["Soft Skills"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_78", "subjects": ["Advanced SQL"], "learning_goals": ["Prepare for midterm", "Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_79", "subjects": ["Biology"], "learning_goals": ["Long-term project", "Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_80", "subjects": ["Advanced SQL"], "learning_goals": ["Homework help", "Placement prep"]}
+{"student_id": "SYN_S_81", "subjects": ["Soft Skills"], "learning_goals": ["Exam review", "Long-term project"]}
+{"student_id": "SYN_S_82", "subjects": ["English"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_83", "subjects": ["Machine Learning"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_84", "subjects": ["Database Basics"], "learning_goals": ["Exam review", "Prepare for midterm"]}
+{"student_id": "SYN_S_85", "subjects": ["Advanced Algebra"], "learning_goals": ["Placement prep", "Homework help"]}
+{"student_id": "SYN_S_86", "subjects": ["Biology"], "learning_goals": ["Placement prep"]}
+{"student_id": "SYN_S_87", "subjects": ["Communication"], "learning_goals": ["Exam review", "Long-term project", "Homework help"]}
+{"student_id": "SYN_S_88", "subjects": ["Advanced SQL"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_89", "subjects": ["Database Basics"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_90", "subjects": ["Statistics"], "learning_goals": ["Exam review", "Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_91", "subjects": ["Statistics"], "learning_goals": ["Homework help", "Prepare for midterm"]}
+{"student_id": "SYN_S_92", "subjects": ["Calculus"], "learning_goals": ["Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_93", "subjects": ["Statistics"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_94", "subjects": ["Database Basics"], "learning_goals": ["Long-term project", "Exam review", "Homework help"]}
+{"student_id": "SYN_S_95", "subjects": ["Data Science"], "learning_goals": ["Concept clarity", "Exam review", "Prepare for midterm"]}
+{"student_id": "SYN_S_96", "subjects": ["Advanced SQL"], "learning_goals": ["Concept clarity", "Exam review", "Prepare for midterm"]}
+{"student_id": "SYN_S_97", "subjects": ["Advanced Algebra"], "learning_goals": ["Long-term project", "Exam review"]}
+{"student_id": "SYN_S_98", "subjects": ["Chemistry"], "learning_goals": ["Concept clarity", "Placement prep", "Homework help"]}
+{"student_id": "SYN_S_99", "subjects": ["Statistics"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_100", "subjects": ["Advanced SQL"], "learning_goals": ["Long-term project", "Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_101", "subjects": ["Linear Algebra"], "learning_goals": ["Placement prep", "Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_102", "subjects": ["Calculus"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_103", "subjects": ["Linear Algebra"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_104", "subjects": ["Communication"], "learning_goals": ["Long-term project", "Prepare for midterm", "Exam review"]}
+{"student_id": "SYN_S_105", "subjects": ["Statistics"], "learning_goals": ["Placement prep", "Long-term project"]}
+{"student_id": "SYN_S_106", "subjects": ["Computer Science"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_107", "subjects": ["Mathematics"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_108", "subjects": ["English"], "learning_goals": ["Homework help", "Long-term project"]}
+{"student_id": "SYN_S_109", "subjects": ["Data Science"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_110", "subjects": ["Biology"], "learning_goals": ["Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_111", "subjects": ["Computer Science"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_112", "subjects": ["Linear Algebra"], "learning_goals": ["Long-term project", "Homework help"]}
+{"student_id": "SYN_S_113", "subjects": ["Advanced Algebra"], "learning_goals": ["Long-term project", "Concept clarity", "Exam review"]}
+{"student_id": "SYN_S_114", "subjects": ["Data Science"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_115", "subjects": ["Linear Algebra"], "learning_goals": ["Placement prep", "Concept clarity", "Exam review"]}
+{"student_id": "SYN_S_116", "subjects": ["Advanced Algebra"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_117", "subjects": ["Chemistry"], "learning_goals": ["Exam review", "Prepare for midterm", "Placement prep"]}
+{"student_id": "SYN_S_118", "subjects": ["Mathematics"], "learning_goals": ["Homework help", "Exam review"]}
+{"student_id": "SYN_S_119", "subjects": ["Mathematics"], "learning_goals": ["Placement prep", "Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_120", "subjects": ["Communication"], "learning_goals": ["Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_121", "subjects": ["Advanced Algebra"], "learning_goals": ["Placement prep", "Long-term project", "Exam review"]}
+{"student_id": "SYN_S_122", "subjects": ["Mathematics"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_123", "subjects": ["English"], "learning_goals": ["Exam review", "Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_124", "subjects": ["Soft Skills"], "learning_goals": ["Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_125", "subjects": ["English"], "learning_goals": ["Homework help", "Exam review"]}
+{"student_id": "SYN_S_126", "subjects": ["Statistics"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_127", "subjects": ["Mathematics"], "learning_goals": ["Concept clarity", "Long-term project", "Exam review"]}
+{"student_id": "SYN_S_128", "subjects": ["Machine Learning"], "learning_goals": ["Prepare for midterm", "Exam review", "Placement prep"]}
+{"student_id": "SYN_S_129", "subjects": ["Communication"], "learning_goals": ["Placement prep", "Homework help"]}
+{"student_id": "SYN_S_130", "subjects": ["English"], "learning_goals": ["Concept clarity", "Homework help"]}
+{"student_id": "SYN_S_131", "subjects": ["Communication"], "learning_goals": ["Concept clarity", "Long-term project", "Prepare for midterm"]}
+{"student_id": "SYN_S_132", "subjects": ["Database Basics"], "learning_goals": ["Homework help", "Placement prep", "Exam review"]}
+{"student_id": "SYN_S_133", "subjects": ["Advanced SQL"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_134", "subjects": ["Database Basics"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_135", "subjects": ["Calculus"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_136", "subjects": ["Computer Science"], "learning_goals": ["Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_137", "subjects": ["Physics"], "learning_goals": ["Homework help", "Placement prep"]}
+{"student_id": "SYN_S_138", "subjects": ["Communication"], "learning_goals": ["Homework help", "Concept clarity", "Placement prep"]}
+{"student_id": "SYN_S_139", "subjects": ["Machine Learning"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_140", "subjects": ["Advanced Algebra"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_141", "subjects": ["Computer Science"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_142", "subjects": ["Soft Skills"], "learning_goals": ["Prepare for midterm", "Placement prep"]}
+{"student_id": "SYN_S_143", "subjects": ["Computer Science"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_144", "subjects": ["Calculus"], "learning_goals": ["Homework help", "Placement prep"]}
+{"student_id": "SYN_S_145", "subjects": ["Statistics"], "learning_goals": ["Exam review", "Concept clarity", "Placement prep"]}
+{"student_id": "SYN_S_146", "subjects": ["Statistics"], "learning_goals": ["Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_147", "subjects": ["Physics"], "learning_goals": ["Long-term project", "Exam review"]}
+{"student_id": "SYN_S_148", "subjects": ["Soft Skills"], "learning_goals": ["Homework help", "Long-term project"]}
+{"student_id": "SYN_S_149", "subjects": ["Data Science"], "learning_goals": ["Prepare for midterm", "Exam review"]}
+{"student_id": "SYN_S_150", "subjects": ["Computer Science"], "learning_goals": ["Exam review", "Homework help"]}
+{"student_id": "SYN_S_151", "subjects": ["Statistics"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_152", "subjects": ["Calculus"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_153", "subjects": ["Calculus"], "learning_goals": ["Long-term project", "Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_154", "subjects": ["Mathematics"], "learning_goals": ["Placement prep", "Concept clarity"]}
+{"student_id": "SYN_S_155", "subjects": ["Mathematics"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_156", "subjects": ["Mathematics"], "learning_goals": ["Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_157", "subjects": ["Machine Learning"], "learning_goals": ["Prepare for midterm", "Exam review"]}
+{"student_id": "SYN_S_158", "subjects": ["Database Basics"], "learning_goals": ["Concept clarity", "Placement prep"]}
+{"student_id": "SYN_S_159", "subjects": ["Statistics"], "learning_goals": ["Long-term project", "Concept clarity", "Homework help"]}
+{"student_id": "SYN_S_160", "subjects": ["Data Science"], "learning_goals": ["Concept clarity", "Prepare for midterm"]}
+{"student_id": "SYN_S_161", "subjects": ["Machine Learning"], "learning_goals": ["Homework help", "Concept clarity"]}
+{"student_id": "SYN_S_162", "subjects": ["Chemistry"], "learning_goals": ["Long-term project", "Placement prep"]}
+{"student_id": "SYN_S_163", "subjects": ["Statistics"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_164", "subjects": ["Advanced Algebra"], "learning_goals": ["Homework help"]}
+{"student_id": "SYN_S_165", "subjects": ["Mathematics"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_166", "subjects": ["Chemistry"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_167", "subjects": ["Machine Learning"], "learning_goals": ["Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_168", "subjects": ["English"], "learning_goals": ["Concept clarity", "Exam review"]}
+{"student_id": "SYN_S_169", "subjects": ["Mathematics"], "learning_goals": ["Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_170", "subjects": ["Advanced Algebra"], "learning_goals": ["Placement prep", "Prepare for midterm", "Exam review"]}
+{"student_id": "SYN_S_171", "subjects": ["Computer Science"], "learning_goals": ["Prepare for midterm", "Homework help", "Placement prep"]}
+{"student_id": "SYN_S_172", "subjects": ["Computer Science"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_173", "subjects": ["Calculus"], "learning_goals": ["Long-term project"]}
+{"student_id": "SYN_S_174", "subjects": ["Science"], "learning_goals": ["Prepare for midterm", "Placement prep", "Long-term project"]}
+{"student_id": "SYN_S_175", "subjects": ["Physics"], "learning_goals": ["Exam review", "Homework help", "Long-term project"]}
+{"student_id": "SYN_S_176", "subjects": ["Biology"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_177", "subjects": ["Biology"], "learning_goals": ["Prepare for midterm", "Exam review", "Concept clarity"]}
+{"student_id": "SYN_S_178", "subjects": ["Machine Learning"], "learning_goals": ["Long-term project", "Prepare for midterm", "Homework help"]}
+{"student_id": "SYN_S_179", "subjects": ["Biology"], "learning_goals": ["Exam review", "Placement prep", "Prepare for midterm"]}
+{"student_id": "SYN_S_180", "subjects": ["Advanced Calculus"], "learning_goals": ["Placement prep", "Concept clarity"]}
+{"student_id": "SYN_S_181", "subjects": ["Linear Algebra"], "learning_goals": ["Placement prep"]}
+{"student_id": "SYN_S_182", "subjects": ["English"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_183", "subjects": ["Science"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_184", "subjects": ["Linear Algebra"], "learning_goals": ["Concept clarity", "Long-term project", "Homework help"]}
+{"student_id": "SYN_S_185", "subjects": ["Chemistry"], "learning_goals": ["Placement prep", "Exam review", "Concept clarity"]}
+{"student_id": "SYN_S_186", "subjects": ["Physics"], "learning_goals": ["Homework help", "Placement prep"]}
+{"student_id": "SYN_S_187", "subjects": ["Data Science"], "learning_goals": ["Long-term project", "Prepare for midterm"]}
+{"student_id": "SYN_S_188", "subjects": ["Data Science"], "learning_goals": ["Long-term project", "Concept clarity"]}
+{"student_id": "SYN_S_189", "subjects": ["Machine Learning"], "learning_goals": ["Prepare for midterm", "Concept clarity"]}
+{"student_id": "SYN_S_190", "subjects": ["English"], "learning_goals": ["Concept clarity"]}
+{"student_id": "SYN_S_191", "subjects": ["Communication"], "learning_goals": ["Exam review", "Homework help"]}
+{"student_id": "SYN_S_192", "subjects": ["Data Science"], "learning_goals": ["Homework help", "Exam review", "Prepare for midterm"]}
+{"student_id": "SYN_S_193", "subjects": ["Soft Skills"], "learning_goals": ["Prepare for midterm"]}
+{"student_id": "SYN_S_194", "subjects": ["Computer Science"], "learning_goals": ["Concept clarity", "Homework help", "Long-term project"]}
+{"student_id": "SYN_S_195", "subjects": ["Science"], "learning_goals": ["Homework help", "Concept clarity", "Placement prep"]}
+{"student_id": "SYN_S_196", "subjects": ["Advanced Algebra"], "learning_goals": ["Exam review"]}
+{"student_id": "SYN_S_197", "subjects": ["Computer Science"], "learning_goals": ["Homework help", "Long-term project"]}
+{"student_id": "SYN_S_198", "subjects": ["Database Basics"], "learning_goals": ["Placement prep", "Exam review", "Concept clarity"]}
+{"student_id": "SYN_S_199", "subjects": ["Statistics"], "learning_goals": ["Exam review", "Concept clarity", "Homework help"]}

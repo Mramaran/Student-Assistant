@@ -1,0 +1,25 @@
+# subject_taxonomy.txt — competency graph edge list (child -> parent)
+# Each non-empty, non-comment line declares that "<child>" is a specialisation
+# of "<parent>". Read by services/competency_graph.py at process start.
+
+# Mathematics family
+Advanced Algebra -> Mathematics
+Linear Algebra -> Mathematics
+Calculus -> Mathematics
+Advanced Calculus -> Calculus
+Statistics -> Mathematics
+
+# Data / CS family
+Machine Learning -> Statistics
+Data Science -> Statistics
+Advanced SQL -> Database Basics
+Database Basics -> Computer Science
+
+# Science family
+Physics -> Science
+Chemistry -> Science
+Biology -> Science
+
+# Language family
+Communication -> English
+Soft Skills -> Communication

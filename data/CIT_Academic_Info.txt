@@ -1,0 +1,171 @@
+TITLE: Board of Studies Members for the Academic Years 2022-2023 and 2023-2024
+INSTITUTION: Coimbatore Institute of Technology (CIT), Coimbatore
+
+================================================================================
+SECTION: OVERVIEW
+================================================================================
+Department: Computer Science and Engineering (CSE)
+Document: Board of Studies Members
+Academic Years: 2022-2023, 2023-2024
+Institution: Coimbatore Institute of Technology, Coimbatore - 641014
+
+================================================================================
+SECTION: CHAIRMAN - BOARD OF STUDIES
+================================================================================
+Name: Dr. Kousalya G
+Role: Chairman, Board of Studies (BoS)
+
+Designation:
+- Professor and Head
+- Department of Computer Science and Engineering
+- Coimbatore Institute of Technology (CIT), Coimbatore
+
+Contact Details:
+- Email: Kousalya.g@cit.edu.in
+- Phone: +91-9865105331
+
+================================================================================
+SECTION: UNIVERSITY NOMINEE
+================================================================================
+Name: Dr. N Arulanand
+Role: University Nominee
+
+Designation:
+- Professor
+- Department of Computer Science and Engineering
+- PSG College of Technology, Coimbatore
+
+Contact Details:
+- Phone: +91 80563 97625
+- Email: naa.cse@psgtech.ac.in
+
+================================================================================
+SECTION: SUBJECT EXPERTS
+================================================================================
+
+Member 1:
+Name: Dr. J. C. Miraclin Joyce Pamila
+Role: Subject Expert
+
+Designation:
+- Professor (CAS) and Head of the Department (i/c)
+- Department of Computer Science and Engineering
+- Government College of Engineering, Dharmapuri
+
+Contact Details:
+- Phone: +91 9843886035
+- Email: miraclin@gct.ac.in
+
+--------------------------------------------------
+
+Member 2:
+Name: Dr. Sathish Babu
+Role: Subject Expert
+
+Designation:
+- Professor and Head
+- Department of Artificial Intelligence & Machine Learning
+- R.V. College of Engineering, Bangalore
+
+Contact Details:
+- Email: bsbabu@rvce.edu.in
+- Phone: +91 98444 88329
+
+================================================================================
+SECTION: INDUSTRIAL EXPERTS
+================================================================================
+
+Member 1:
+Name: Mr. Chithiraisamy S
+Role: Industrial Expert
+
+Designation:
+- Full Stack Developer
+- Schlumberger (SLB), Coimbatore
+
+Contact Details:
+- Email: chithiraisamy@gmail.com
+
+--------------------------------------------------
+
+Member 2:
+Name: Dr. Ramesh Naidu L
+Role: Industrial Expert
+
+Designation:
+- Joint Director
+- Big Data Analytics & Machine Learning
+- Centre for Development of Advanced Computing (C-DAC), Bangalore
+
+Contact Details:
+- Phone: 080-25093436
+- Mobile: +91 9164173007
+- Email: rameshl@cdac.in
+
+================================================================================
+SECTION: ALUMNI MEMBER
+================================================================================
+Name: Mr. Mohan Chandar Selvaraj
+Role: Alumni Representative
+
+Designation:
+- Senior Member Technical
+- D. E. Shaw India Private Limited, Bangalore
+
+Contact Details:
+- Phone: +91 9688805580
+- Email: mohancss007@gmail.com
+
+================================================================================
+SECTION: INTERNAL MEMBERS
+================================================================================
+
+Department: Computer Science and Engineering (CIT)
+
+Members List:
+1. Dr. R. Nedunchezhian
+2. Dr. A. Kunthavai
+3. Dr. A.N. Senthilvel
+4. Dr. K. Amshakala
+5. Dr. M. Mohanapriya
+6. Dr. A. Priyadharshini
+7. Dr. S. Sangeetha Mariammal
+8. Dr. S. Priya
+9. Ms. R. Pavithra
+10. Dr. G. Karthikeyan
+11. Dr. R. Saveeth
+
+--------------------------------------------------
+
+SECTION: INTER-DEPARTMENT INTERNAL MEMBERS
+--------------------------------------------------
+
+Member 1:
+Name: Dr. V. Arthy
+Department: Humanities
+
+Member 2:
+Name: Dr. P. Suresh
+Department: Physics
+
+Member 3:
+Name: Dr. K.V. Hemalatha
+Department: Chemistry
+
+Member 4:
+Name: Dr. S. Sangeethamani
+Department: Mathematics
+
+
+================================================================================
+SECTION: GLOBAL KEYWORDS
+================================================================================
+
+- CSE Board of Studies CIT
+- CIT BoS members list
+- CSE faculty committee CIT
+- academic committee CIT
+- BOS chairman CIT
+- industry expert CIT CSE
+- subject expert CIT engineering
+- CIT internal faculty CSE

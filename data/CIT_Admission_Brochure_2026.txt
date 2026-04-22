@@ -1,0 +1,365 @@
+TITLE: CIT Admission Brochure - B.E. / B.Tech.
+INSTITUTION: Coimbatore Institute of Technology (CIT), Coimbatore
+
+================================================================================
+SECTION: INSTITUTION PROFILE
+================================================================================
+Institution Name: Coimbatore Institute of Technology (CIT)
+Type: Government Aided Autonomous Institution
+Affiliation: Anna University, Chennai
+Established Year: 1956
+Autonomous Status: Since 1987
+
+Address:
+- Civil Aerodrome (PO), Coimbatore - 641014
+
+Reputation:
+- One of the most reputed institutions in Tamil Nadu
+- Industry-aligned curriculum ensuring strong career opportunities
+- Strong alumni network across global sectors
+
+
+================================================================================
+SECTION: VISION AND MISSION
+================================================================================
+
+Vision:
+- To inculcate sound engineering knowledge
+- Develop socially responsible engineers
+- Enable students to address national and global challenges
+
+Mission:
+- To impart high-quality education and training
+- Develop world-class engineers
+- Encourage innovation and problem-solving for societal benefit
+
+
+================================================================================
+SECTION: PROGRAMMES OVERVIEW
+================================================================================
+
+Program Categories:
+- 9 Undergraduate (UG) Programmes (B.E. / B.Tech.)
+- 3 Postgraduate (PG) Programmes (M.E. / MBA / MCA)
+- 4 Integrated M.Sc. Programmes
+- 6 Centres of Excellence
+- 1 Research Innovation Centre
+
+
+================================================================================
+SECTION: CENTRES OF EXCELLENCE
+================================================================================
+
+Available Centres:
+- Industrial Automation
+- 5G Technologies
+- Internet of Things (IoT)
+- E-Mobility
+- Material Characterization and Synthesis
+- Cyber Security
+
+Associated Labs:
+- Internet of Things (IoT) Lab
+- 5G Networks Lab
+- Material Characterization and Synthesis Lab
+- Industrial Automation Lab
+- Malaviya Mission Teacher Training Centre (MHRD Scheme)
+
+
+================================================================================
+SECTION: UNDERGRADUATE PROGRAMMES (UG)
+================================================================================
+
+B.E. Civil Engineering
+- Accreditation: NBA
+- Since: 1956
+
+B.E. Mechanical Engineering
+- Accreditation: NBA
+- Since: 1956
+
+B.E. Electrical and Electronics Engineering
+- Accreditation: NBA
+- Since: 1956
+
+B.E. Electronics and Communication Engineering
+- Accreditation: NBA
+- Since: 1968
+
+B.E. Computer Science and Engineering
+- Accreditation: NBA
+- Since: 1986
+
+B.E. Electronics Engineering (VLSI Design and Technology)
+- Since: 2026
+- Status: Awaiting approval
+
+B.Tech. Chemical Engineering
+- Accreditation: NBA
+- Since: 1963
+
+B.Tech. Information Technology
+- Accreditation: NBA
+- Since: 2000
+
+B.Tech. Artificial Intelligence and Data Science
+- Since: 2021
+
+
+================================================================================
+SECTION: POSTGRADUATE PROGRAMMES (PG)
+================================================================================
+
+M.E. Construction Management
+- Since: 2011
+
+Master of Computer Applications (MCA)
+- Accreditation: NBA
+- Since: 1994
+
+Master of Business Administration (MBA)
+- Since: 2021
+
+
+================================================================================
+SECTION: INTEGRATED M.Sc. PROGRAMMES (5 YEARS)
+================================================================================
+
+M.Sc. Software Systems
+- Since: 1998
+
+M.Sc. Data Science
+- Since: 2016
+
+M.Sc. Decision and Computing Sciences
+- Since: 2017
+
+M.Sc. Artificial Intelligence and Machine Learning
+- Since: 2019
+
+
+================================================================================
+SECTION: STUDENT CLUBS AND ACTIVITIES
+================================================================================
+
+Clubs:
+- Japan Horizons Club
+- Career Guidance and Counselling Cell
+- CLAP Cell
+- Entrepreneurship Development Cell
+- Women Empowerment Cell
+- Kalam Knowledge Club
+- Yoga Club
+- NSS
+- RSP
+- Rotaract Club
+- YRC
+- Fit India
+- Space Club
+- Photographic Club
+- Cyber Club
+- Music Club
+- Literary Club
+- YHAI
+- Martial Arts Club
+- Film Club
+- Arts Club
+- Muthamizh Mandram
+- Dramatix
+- UBA
+- EBSB
+- Nature Club
+- GDS Club
+- FOSS Club
+- Quiz Club
+- Datalytics Club
+- Swachh Bharat Club
+
+
+================================================================================
+SECTION: PLACEMENTS AND INTERNSHIPS
+================================================================================
+
+Highest Package:
+- Rs. 58 Lakhs Per Annum
+
+Major Recruiters:
+- Amazon
+- D.E. Shaw & Co
+- Soliton
+- KLA
+- Oracle
+- Thorogood
+- Deloitte
+- EXL
+- Accenture
+- Infosys
+- IBM
+- Zoho
+- EY
+- CaratLane
+- Toshiba
+- MiQ
+- embedUR
+- Rootquotient
+- Konnectify
+- Justo Global
+- LSEG
+- Cognizant
+- SuperAGI
+- Yubi
+- SurveySparrow
+- Ninjacart
+- Saturam
+- Brakes India
+- OptiSol
+- Genau Extrusions
+- Shaachi
+- Buckman
+- SPAN
+- NGP
+- CMS
+- Filesure
+- CUMI
+- Tata Technologies
+- RDC Concrete
+- Impelox
+- Delphi-TVS Technologies
+- Simpolo
+- Rabwin
+- Infinium
+- Timbertruss
+- URC Building Values
+- Aarbee
+- FedEx
+- Alstom
+- Ascendion
+- HI Mando
+- Smartail
+- Vandewiele Savio
+- Propel
+- Axcess.io
+- Datazoic
+- Ignitarium
+- Savills
+- Izeon Innovative
+- Flex
+- Geleation
+- NMTronics
+- Satyukt
+- WNS Vuram
+- TGK
+- Gulf Asia
+- Ford
+- Wasco
+- Flowserve
+- L&T Technology Services
+- AIM
+- Ohmium
+- Incture
+- C5i
+- Linumiz
+- Capgemini
+- Checkpoint
+- McDermott
+- HashedIn
+- SLB
+- DTCC
+- EffiGO
+- Infominds
+- Everstage
+- Informatica
+- HyperVerge
+- Base
+- Panora
+- Aqfer
+- Sporfy
+- Intellectyx
+- Technip Energies
+- Tessolve
+- Wissen Technology
+- HARTS
+- Mobicip
+- Mu Sigma
+- IDFC First Bank
+- TEAL (A Tata Enterprise)
+- Shoba
+- Energo Group
+- Quinbay
+
+
+================================================================================
+SECTION: PROFESSIONAL MEMBERSHIPS
+================================================================================
+
+- Institution of Engineers (India)
+- Institution of Electronics and Telecommunication Engineers
+- IEEE Students Chapter
+- SWAYAM-NPTEL Local Chapter
+
+
+================================================================================
+SECTION: FOREIGN COLLABORATIONS
+================================================================================
+
+Partner Institutions:
+- Taylors University
+- Asia Pacific University of Technology and Innovation
+- Western Norway University of Applied Sciences (HVL), Norway
+- University of Jaffna, Sri Lanka
+- University Malaya, Malaysia
+- Telekom University Bandung, Indonesia
+- Swinburne University of Technology (Sarawak / Melbourne)
+- LA Academia (French Reunion Island)
+- Indo Universal Collaboration for Engineering Education
+- National Institute of Technical Teachers' Training and Research
+- British Council
+- Tamil Nadu Agricultural University, Coimbatore
+
+Key Collaboration Areas:
+- Credit Transfer
+- Student Exchange Programs
+- Semester Abroad Opportunities
+- Joint Research and Publications
+- Faculty Mobility
+- Certification Programs and Hackathons
+- Innovation and Global Competency Development
+
+
+================================================================================
+SECTION: NOTABLE ALUMNI
+================================================================================
+
+- Dr. N. Balakrishnan (Padma Bhushan) – IISc Bangalore
+- Er. Subbaiah Arunan (Padma Shri) – ISRO
+- Er. N. Chandrasekaran – Chairman, Tata Sons
+- Er. Sathish C Dhanasekaran – CEO, Keysight Technologies
+- Er. Jahangir Mohammed – CEO, Twin Health
+- Mr. Josh Foulger – President, Zetwork
+- Mr. R.K. Ramamoorthy – Indian Air Force
+- Mr. Anand Selvakesari – COO, Citigroup
+- Mr. Sampath – EY Cloud Data Modernization
+- Mr. M.K. Aravind Kumar – IAS Officer
+- Mr. Arvind – IPS Officer
+- Ms. C.S. Ramya – IAS Officer
+- Ms. Aarthi Anbalagan – Microsoft
+- Mr. Karupaiya Chu – Data Engineer, D.E. Shaw
+- Mr. K. Thiyanesan – Technical Lead
+
+
+================================================================================
+SECTION: ADMISSION CONTACT DETAILS
+================================================================================
+
+Admission Coordinator:
+- Name: Mr. K. Dhandapani
+- Phone: +91 94883 16334
+
+Official Website:
+- www.cit.edu.in
+
+LinkedIn:
+- linkedin.com/school/coimbatore-institute-of-technology/
+
+
+

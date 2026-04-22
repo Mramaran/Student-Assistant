@@ -1,0 +1,211 @@
+TITLE: Course Registration System - Coimbatore Institute of Technology (CIT)
+INSTITUTION: Coimbatore Institute of Technology (CIT), Coimbatore
+
+================================================================================
+SECTION: CBCS SYSTEM OVERVIEW
+================================================================================
+
+System:
+- Choice Based Credit System (CBCS)
+
+Introduced:
+- Credit System: 2001
+- CBCS Implementation: 2015
+
+Purpose:
+- Provides flexibility in course selection
+- Allows students to choose electives based on interests and career goals
+
+
+================================================================================
+SECTION: COURSE CATEGORIES
+================================================================================
+
+1. Core Courses:
+- Mandatory courses for each department/programme
+- Form the foundation of the degree
+
+2. Professional Electives:
+- Department-specific electives
+- Allow specialization in chosen domain
+
+3. Open Electives:
+- Courses from other departments
+- Broaden interdisciplinary knowledge
+
+4. Mandatory Courses:
+- Non-credit courses
+- Examples:
+  - Science of Creativity and Professional Ethics (since 1987)
+  - Environmental Science
+  - Constitution of India
+
+5. Laboratory Courses:
+- Practical courses linked with theory subjects
+
+6. Project Courses:
+- Mini Projects: 2 credits (V and VI semesters)
+- Final Year Projects
+
+
+================================================================================
+SECTION: COURSE REGISTRATION PROCESS
+================================================================================
+
+Steps:
+- Register at the beginning of each semester
+- Registration period defined by academic office
+- Consult faculty advisor before selecting courses
+- Complete registration within first two weeks of semester
+
+Support:
+- Academic office assistance
+- Faculty advisor guidance
+
+
+================================================================================
+SECTION: ADD/DROP PERIOD
+================================================================================
+
+Duration:
+- First two weeks of semester
+
+Rules:
+- Students can add or drop elective courses without penalty
+- After this period, changes are not allowed
+
+Exception:
+- Only with special approval from Head of Department (HOD)
+
+
+================================================================================
+SECTION: CREDIT LOAD
+================================================================================
+
+Typical Load:
+- 20 to 25 credits per semester
+
+Rules:
+- Cannot exceed maximum credit limit without permission
+- Extra courses require:
+  - Academic advisor approval
+  - HOD approval
+
+
+================================================================================
+SECTION: ELECTIVE COURSE SELECTION
+================================================================================
+
+Features:
+- Electives introduced based on industry needs
+- Regular updates to match latest technology trends
+
+Special Options:
+- German or French as alternative to English (2nd semester)
+
+Governance:
+- Board of Studies reviews and updates electives
+
+
+================================================================================
+SECTION: INDUSTRIAL TRAINING
+================================================================================
+
+Requirement:
+- Mandatory for all students
+
+Duration:
+- 4 weeks
+
+Since:
+- 2009
+
+Evaluation:
+- Training report
+- Viva voce
+
+Credits:
+- Included in academic credit system
+
+Condition:
+- Must be completed to obtain degree
+
+
+================================================================================
+SECTION: MINI PROJECT
+================================================================================
+
+Details:
+- Offered in V and VI semesters
+- Credits: 2
+
+Requirements:
+- Register for mini project
+- Select faculty guide
+
+Purpose:
+- Apply theoretical knowledge to practical problems
+
+
+================================================================================
+SECTION: COURSE WITHDRAWAL
+================================================================================
+
+Option:
+- Apply for 'W' (Withdrawal grade)
+
+Conditions:
+- Apply before mid-semester deadline
+- Maximum 2 withdrawals per semester
+
+Impact:
+- No grade penalty
+- Course must be completed later
+
+
+================================================================================
+SECTION: BACKLOG / ARREAR COURSES
+================================================================================
+
+Rules:
+- Failed courses must be re-registered
+- Must clear arrears to complete degree
+
+Advice:
+- Prioritize clearing arrears before taking extra electives
+
+
+================================================================================
+SECTION: SYLLABUS REVISION
+================================================================================
+
+Frequency:
+- Every 4 years or as required
+
+Responsible Bodies:
+- Curriculum Development Cell
+- Board of Studies
+
+Purpose:
+- Keep curriculum updated with industry trends
+
+
+================================================================================
+SECTION: PROGRAMME DURATION
+================================================================================
+
+Undergraduate:
+- B.E / B.Tech: 4 years (8 semesters)
+
+Postgraduate:
+- M.E / M.Tech: 2 years (4 semesters)
+- MCA: 2 years (4 semesters)
+- MBA: 2 years (4 semesters)
+
+Integrated:
+- M.Sc: 5 years (10 semesters)
+
+Doctoral:
+- Ph.D: Minimum 3 years
+
+

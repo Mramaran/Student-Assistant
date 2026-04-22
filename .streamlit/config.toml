@@ -1,0 +1,14 @@
+[theme]
+# Revature-inspired palette — black + white + orange accent, matching the
+# public marketing site (app.revature.com is JS-rendered behind auth so exact
+# in-app tokens could not be scraped; colours below are a close visual match).
+# Tweak `primaryColor` if you have a more exact brand hex.
+base                    = "light"
+primaryColor            = "#F47B20"   # Revature orange — buttons, links, badges
+backgroundColor         = "#ffffff"   # clean white page
+secondaryBackgroundColor = "#f5f5f5"  # soft gray — expander bodies, sidebar, cards
+textColor               = "#1a1a1a"   # near-black for strong contrast
+font                    = "sans serif"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,10 @@
+{
+  "precision_at_1": 0.64,
+  "recall_at_3": 0.8,
+  "ndcg_at_5": 0.9878,
+  "coverage": 0.8667,
+  "gini_coefficient": 0.3841,
+  "seed": 42,
+  "n_students": 200,
+  "n_tutors": 30
+}

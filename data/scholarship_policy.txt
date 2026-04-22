@@ -1,0 +1,99 @@
+DOCUMENT: CIT_SCHOLARSHIP_FINANCIAL_AID_POLICY
+INSTITUTION: Coimbatore Institute of Technology
+LOCATION: Coimbatore, Tamil Nadu, India
+
+SECTION: OVERVIEW
+- CIT facilitates more than 24 government and private scholarship schemes
+- Objective: reduce financial burden for deserving students
+- Covers government, central, private, alumni, and institutional aid
+
+SECTION: GOVERNMENT_SCHOLARSHIPS_COMMUNITY_WELFARE
+- Adi Dravidar Welfare Scholarship → SC/ST students
+- Backward Class (BC) Scholarship → BC/MBC students
+- Minority Scholarship → minority community students
+- Farmer Social Security Scholarship → children of farmers
+
+SECTION: GOVERNMENT_SCHOLARSHIPS_MERIT_REGIONAL
+- Chief Minister’s Scholarship → state-level merit
+- Arignar Anna Award → academic excellence
+- Interstate Scholarships → Pondicherry, Andaman & Nicobar, Northeast students
+
+SECTION: GOVERNMENT_SCHOLARSHIPS_SPECIAL_CATEGORY
+- AICTE Pragathi Scholarship → women in technical education
+- AICTE Saksham Scholarship → differently-abled students
+- Occupational Scholarships → children of teachers, defense personnel, ex-servicemen
+
+SECTION: FEE_CONCESSIONS
+- Full tuition fee concession:
+  - SC / ST students
+  - Converts to Christianity
+  - Applicable for government-aided courses
+- Partial fee concession:
+  - BC/MBC students with income below prescribed limit
+
+SECTION: CENTRAL_GOVERNMENT_SCHEMES
+- PM Special Scholarship Scheme → Jammu & Kashmir students
+- Central Armed Police Forces Scholarships
+- Railway Ministry Scholarship Schemes
+
+SECTION: NATIONAL_SCHOLARSHIP_PORTAL_SCHEMES
+- Central Sector Scholarship → income < Rs. 8.8 lakhs
+- AICTE Pragathi → girls
+- AICTE Saksham → differently-abled
+- Ishan Uday Scholarship → Northeast students
+
+SECTION: PRIVATE_AND_ALUMNI_SCHOLARSHIPS
+- Tamil Nadu Educational Trust Scholarship
+- ONGC Scholarship
+- Siragugal Scholarship Scheme
+- Alumni Trust Scholarships (1967–2017 batches)
+- CIT Endowment Fund Scholarship
+- Industry-sponsored scholarships (via recruiters)
+
+SECTION: INCOME_LIMITS
+- Income limits vary: Rs. 2.5 lakhs to Rs. 8.8 lakhs per annum
+- Depends on scheme and government norms
+
+SECTION: APPLICATION_PROCESS
+- Submit application to Principal’s Office
+- Deadline:
+  - Within 30 days of reopening OR
+  - Within 30 days of admission
+- Must include all required supporting documents
+- Late or incomplete applications → rejected
+
+SECTION: ELIGIBILITY_CONDITIONS
+- Only ONE scholarship/concession allowed at a time
+- Highest benefit scheme will be awarded
+- Minimum attendance: 75%
+- Must maintain satisfactory academic performance
+
+SECTION: DISCIPLINARY_REQUIREMENTS
+- Scholarships based on trust and discipline
+- Cancellation if:
+  - Ragging involvement
+  - Participation in strikes
+  - Violation of college rules
+- Students must maintain good conduct
+
+SECTION: SCHOLARSHIP_RENEWAL
+- Renewed annually based on eligibility
+- Re-application required every year
+- Performance + attendance reviewed before renewal
+
+SECTION: SUPPORT_AND_GUIDANCE
+- Principal’s Office provides guidance
+- Helps match students with suitable schemes
+- Updates shared via:
+  - Notice boards
+  - College website
+
+SECTION: REQUIRED_DOCUMENTS
+- Community / Caste Certificate
+- Income Certificate
+- Aadhaar Card
+- Bank Account Details (student)
+- Previous mark sheets
+- Admission receipt & fee payment proof
+- Medical certificate (if applicable)
+- Scheme-specific documents (if required)

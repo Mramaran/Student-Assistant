@@ -1,0 +1,241 @@
+TITLE: CIT Placement Process and Rules
+
+SECTION: Placement Cell Overview
+Institution: Coimbatore Institute of Technology (CIT)
+
+Placement Cell Role:
+- Directed by a Professor-ranked staff member
+- Responsible for securing placements for graduating students
+- Maintains partnerships with national and multinational companies
+- Facilitates:
+  - Pre-placement talks
+  - Campus interviews
+  - Recruitment drives
+
+Student Involvement:
+- Student representatives from each department coordinate placement activities
+
+Meetings:
+- Monthly review meetings for planning
+- General body meetings for final-year students at the beginning of academic year
+
+Placement Cell Contact:
+Phone: +91-422-2574071, 2574072
+Mobile: +91 90035 00822, +91 95855 94322
+Email: placement@cit.edu.in
+Fax: +91-422-2575020
+Address: Civil Aerodrome Post, Coimbatore - 641014, India
+
+---
+
+SECTION: Placement Cell Leadership
+- Dr. A. Rajeswari - Placement Officer and Principal
+- Dr. R. Maheswari - Deputy Placement Officer, Department of Humanities
+- Dr. P. Muthu Subramanian - Deputy Placement Officer, Department of ECE
+- Dr. A. Saravanan - Deputy Placement Officer, Department of Computing
+- Dr. S. Thilaga - Deputy Placement Officer, Department of MBA
+- Mr. R. Vivek Kumar - Training and Placement Officer
+- Col. Jacob G Podipara - Deputy Placement Officer, Department of Civil Engineering
+
+---
+
+SECTION: Placement Infrastructure
+Facilities:
+- Dedicated rooms for:
+  - Group discussions
+  - Written tests
+  - Interviews
+- Communication lab for skill development
+- Placement library with aptitude and technical materials
+- Display of campus recruitment information for student awareness
+
+---
+
+SECTION: Training and Career Support
+Training Provided:
+- Aptitude and reasoning training
+- Group discussion preparation
+- Personal interview preparation
+- Technical skills workshops
+- Communication and soft skills training
+- Resume building
+- Mock interviews
+
+Timeline:
+- Training starts from sophomore and junior years
+
+Competitive Exam Support:
+- GATE
+- TOEFL
+- GRE
+- CAT
+- GMAT
+
+Entrepreneurship Support:
+- Guidance for self-employment
+- Information on government financial assistance
+
+---
+
+SECTION: Placement Process
+Step 1: Pre-Placement Talk (PPT)
+- Company introduction, roles, salary, work culture
+
+Step 2: Written Test / Online Assessment
+- Aptitude, technical tests, coding rounds
+
+Step 3: Group Discussion (GD)
+- Communication, teamwork, analytical skills
+
+Step 4: Technical Interview
+- Domain knowledge and problem solving
+
+Step 5: HR Interview
+- Personality, communication, cultural fit
+
+Step 6: Offer Letter
+- Final selection and job offer
+
+Special Note:
+- Companies compete to be "Day One" recruiters
+
+---
+
+SECTION: Placement Statistics and Highlights
+
+B.E./B.Tech Placements:
+- Highest Package (2025-26): Rs. 58 LPA
+- Highest Package (2023-24): Rs. 52 LPA (D.E. Shaw India)
+- Highest Package (2022-23): Rs. 36 LPA (D.E. Shaw India)
+- Average Package: Rs. 4-5 LPA
+- Consistent placement record from 2005-06 to 2024-25
+
+M.Sc Placements:
+- Highest Package: Rs. 58 LPA
+- KLA Internship: Rs. 75,000/month with Rs. 29 LPA offer
+- Internships:
+  - Microsoft Research India
+  - Universities: UCF, ASU, UBC, NUS, Ontario Tech, Athabasca University, University of Malaya
+
+MCA Placements:
+- Highest Package: Rs. 14 LPA
+
+MBA Placements:
+- Highest Package: Rs. 12 LPA
+
+---
+
+SECTION: Recruiting Companies
+
+Top Recruiters:
+Amazon, D.E. Shaw & Co, Soliton, KLA, Oracle, Thorogood, Deloitte, EXL, Accenture, Infosys, IBM, Zoho, EY, CaratLane, Toshiba
+
+IT and Technology:
+MiQ, embedUR, Rootquotient, Konnectify, Justo Global, LSEG, Cognizant, SuperAGI, Yubi, SurveySparrow, Ninjacart, Saturam, OptiSol, Tata Technologies, Informatica, Incture, Flex, Tekizma
+
+Engineering and Manufacturing:
+Ascendion, HI Mando, Smartail, Vandewiele Savio, Propel, Axcess.io, Datazoic, Ignitarium, Savills, Izeon Innovative, Geleation, NMTronics, Satyukt, WNS Vuram, Gulf Asia, Ford, Wasco, Flowserve, L&T Technology Services, Ohmium
+
+Finance and Consulting:
+DTCC, IDFC First Bank, Mu Sigma, Capgemini, Checkpoint, McDermott, HashedIn, SLB, EffiGO, Infominds, Everstage, HyperVerge, Base, Panora, Aqfer, Sporfy, Intellectyx, Technip Energies, Tessolve, Wissen Technology, HARTS, Mobicip, TEAL, Shoba, Energo Group, Quinbay
+
+MBA Recruiters:
+Brillio, Berger Paints, Asian Paints, City Union Bank, DMart, Roots Adding Value, Reliance Retail, OptiSol, Naukri, ICICI Bank, Indigo Paints, Veritas Finance, Vilvah Store, WhiteOak Capital Management, Characterr
+
+MCA Recruiters:
+Oracle, Zoho, Infosys, Accenture, LSEG, EXL, Yubi, EY, NGP, Cognizant, Tata Technologies, Tekizma, Informatica, Incture, Flex
+
+Additional Recruiters:
+Genau Extrusions, Shaachi, Buckman, SPAN, NGP, CMS, Filesure, CUMI, RDC Concrete, Impelox, Delphi-TVS Technologies, Simpolo, Rabwin, Infinium, Timbertruss, URC Building Values, Aarbee, FedEx, Alstom
+
+---
+
+SECTION: Placement Rules and Policies
+- Registration with Placement Cell is mandatory
+- Formal dress code required
+- Carry ID card and resume
+- Attendance in all placement activities is compulsory
+- Absence without notice may lead to debarment
+- Must meet academic and attendance requirements
+- Industrial training must be completed
+
+---
+
+SECTION: Internship Programmes
+B.E./B.Tech:
+- 4 weeks compulsory industrial training (since 2009)
+
+M.Sc Integrated:
+- Two 6-month internships (7th and 10th semesters)
+
+Internship Companies:
+- EY, Justo Global, CaratLane, OptiSol, SPAN, Konnectify, Shaachi, Buckman, NGP
+
+International Internships:
+- UCF, ASU, UBC, NUS, Ontario Tech, Athabasca University, University of Malaya
+
+---
+
+SECTION: Higher Studies Support
+Support for:
+- GATE (M.Tech)
+- GRE, TOEFL (MS abroad)
+- CAT, GMAT (MBA)
+
+Services:
+- Guidance for applications abroad
+- Career counselling
+
+International Collaborations:
+- Taylors University
+- Asia Pacific University
+- Western Norway University
+- University of Jaffna
+- University Malaya
+- Telekom University Bandung
+- Swinburne University
+- British Council
+
+---
+
+SECTION: Reasons for Placement Success
+- Strong academic fundamentals
+- Industry-aligned curriculum
+- Modern infrastructure
+- Exposure to conferences and seminars
+- Strong alumni network
+- Employer trust and repeat recruiters
+- 6 Centres of Excellence:
+  - Industrial Automation
+  - 5G Technologies
+  - IoT
+  - E-Mobility
+  - Material Science
+  - Cyber Security
+
+---
+
+SECTION: Notable Alumni in Industry
+- N. Chandrasekaran - Chairman, Tata Sons
+- Sathish C Dhanasekaran - CEO, Keysight Technologies
+- Jahangir Mohammed - CEO, Twin Health
+- Josh Foulger - President, ZETWORK
+- Anand Selvakesari - COO, Citigroup
+- Sampath - Managing Director, EY
+- Aarthi Anbalagan - Software Engineer, Microsoft
+- Prabhu Loganathan - Vice President, Qualitest
+- L. Jayakumar - Consultant, TCS
+
+---
+
+SECTION: Placement Contact Information
+Placement Cell
+Coimbatore Institute of Technology
+Civil Aerodrome Post, Avinashi Road, Coimbatore - 641014
+
+Phone: +91-422-2574071, 2574072
+Mobile: +91 90035 00822, +91 95855 94322
+Email: placement@cit.edu.in
+Website: www.cit.edu.in
+LinkedIn: linkedin.com/school/coimbatore-institute-of-technology/
+
