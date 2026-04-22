@@ -1,0 +1,31 @@
+# Core App & Logic
+python-dotenv
+streamlit
+langchain
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-google-genai
+chromadb
+
+# Document Processing
+python-docx
+pypdf
+pdfplumber
+pytesseract
+Pillow
+
+# Retrieval & Verification
+rank-bm25
+sentence-transformers
+nltk
+PyYAML
+
+# Deployment & API
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart

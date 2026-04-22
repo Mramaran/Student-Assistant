@@ -1,0 +1,25 @@
+# UC4 controlled vocabulary
+# Used by ingestion.loader._infer_doc_type and by the benchmark suite's
+# category-level metrics. Keep doc_types in sync with the keyword map in
+# ingestion/loader.py DOC_TYPE_PATTERNS.
+
+doc_types:
+  - handbook
+  - exam
+  - scholarship
+  - placement
+  - admission
+  - facilities
+  - other
+
+departments:
+  - CSE
+  - ECE
+  - EEE
+  - MECH
+  - CIVIL
+  - IT
+  - MBA
+  - MCA
+  - MSc
+  - AI & DS
