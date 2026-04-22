@@ -21,6 +21,9 @@ makes the UC4 integration explicit and easy to audit.
 
 from __future__ import annotations
 
+import html
+import re
+
 from dotenv import load_dotenv
 
 # Load .env BEFORE any project imports so core.config picks up overrides
@@ -40,6 +43,18 @@ LABEL_COPY: dict[str, tuple[str, str]] = {
 }
 
 
+_FACTOR_META: tuple[tuple[str, str, str], ...] = (
+    ("cosine",             "Semantic similarity",
+     "Cosine(answer embedding, retrieved context embedding)"),
+    ("evidence_alignment", "Evidence alignment",
+     "Proper-noun & numeric anchors in the answer that appear verbatim in context"),
+    ("corroboration",      "Corroboration",
+     "Fraction of retrieved sources that back at least one anchor"),
+    ("availability",       "Availability",
+     "Retrieved chunks / configured TOP_K"),
+)
+
+
 def _render_confidence(conf: dict) -> None:
     label = conf.get("label", "Low")
     copy, color = LABEL_COPY.get(label, LABEL_COPY["Low"])
@@ -55,16 +70,53 @@ def _render_confidence(conf: dict) -> None:
     with st.expander("Why this score"):
         factors = conf.get("factors", {})
         weights = conf.get("weights", {})
-        st.markdown(
-            "| factor | raw value | weight | contribution |\n"
-            "|---|---:|---:|---:|\n"
-            + "\n".join(
-                f"| {name} | {factors.get(name, 0.0):.3f} "
-                f"| {weights.get(name, 0.0):.2f} "
-                f"| {factors.get(name, 0.0) * weights.get(name, 0.0):.3f} |"
-                for name in ("cosine", "evidence_alignment", "corroboration", "availability")
+
+        cards: list[str] = []
+        for key, pretty, desc in _FACTOR_META:
+            raw = float(factors.get(key, 0.0))
+            weight = float(weights.get(key, 0.0))
+            contrib = raw * weight
+            pct = max(0, min(100, int(round(raw * 100))))
+            cards.append(
+                f"""
+<div style="padding: 10px 14px; background: #fafafa;
+            border-left: 3px solid {color}; border-radius: 4px;
+            margin-bottom: 8px;">
+  <div style="display: flex; justify-content: space-between;
+              align-items: baseline; gap: 12px;">
+    <span style="font-weight: 600; color: #1a1a1a; font-size: 0.9rem;">
+      {html.escape(pretty)}
+    </span>
+    <span style="font-size: 0.80rem; color: #555; white-space: nowrap;">
+      {raw:.3f}
+      <span style="color: #999;">×</span>
+      <b style="color: #333;">{weight:.2f}</b>
+      <span style="color: #999;">=</span>
+      <b style="color: #1a1a1a;">{contrib:.3f}</b>
+    </span>
+  </div>
+  <div style="margin: 8px 0 6px 0; background: #ececec;
+              border-radius: 3px; height: 6px; overflow: hidden;">
+    <div style="width: {pct}%; background: {color}; height: 100%;"></div>
+  </div>
+  <div style="color: #777; font-size: 0.74rem;">{html.escape(desc)}</div>
+</div>
+"""
             )
-        )
+
+        total_card = f"""
+<div style="display: flex; justify-content: space-between;
+            align-items: center; padding: 12px 14px;
+            background: #ffffff; border: 2px solid {color};
+            border-radius: 6px; margin-top: 10px;">
+  <span style="font-weight: 700; color: #1a1a1a;
+               font-size: 0.95rem; letter-spacing: 0.02em;
+               text-transform: uppercase;">Composite</span>
+  <span style="font-weight: 700; color: {color};
+               font-size: 1.35rem;">{composite:.3f}</span>
+</div>
+"""
+        st.markdown("".join(cards) + total_card, unsafe_allow_html=True)
 
 
 def _render_conflicts(conflicts: list) -> None:
@@ -84,14 +136,15 @@ def _render_conflicts(conflicts: list) -> None:
             st.markdown("---")
 
 
-def _render_escalation(esc: dict | None, query: str, response: dict) -> None:
+def _render_escalation(esc: dict | None, query: str, response: dict,
+                       key_suffix: str = "") -> None:
     if esc:
         st.info(f"📨 Ticket {esc['ticket_id']} recorded — faculty review recommended.")
         st.markdown(
             f"[Escalate to faculty]({esc['mailto_url']}) — ticket `{esc['ticket_id']}`"
         )
 
-    if st.button("Escalate anyway", key="escalate_manual_button"):
+    if st.button("Escalate anyway", key=f"escalate_manual_button_{key_suffix}"):
         conf = response.get("confidence") or {}
         docs = response.get("sources") or []
         manual = escalation.create_ticket(
@@ -116,30 +169,97 @@ def _render_metrics(response: dict) -> None:
     c3.metric("Sources", len(sources))
 
 
-def _render_answer(response: dict, query: str) -> None:
+_SOURCE_MARKER_RE = re.compile(r"\[\s*Source\s*(\d+)\s*\]", re.IGNORECASE)
+
+
+def _rewrite_citations(answer: str, sources: list) -> str:
+    """Replace ``[Source N]`` markers with the underlying filename.
+
+    Unknown indices are left untouched so we never silently drop a citation.
+    """
+    if not answer or not sources:
+        return answer
+
+    def _sub(match: re.Match[str]) -> str:
+        idx = int(match.group(1))
+        if 1 <= idx <= len(sources):
+            meta = getattr(sources[idx - 1], "metadata", {}) or {}
+            name = str(meta.get("source", "")).strip()
+            if name:
+                return f"[{name}]"
+        return match.group(0)
+
+    return _SOURCE_MARKER_RE.sub(_sub, answer)
+
+
+def _render_answer(response: dict, query: str, key_suffix: str = "") -> None:
     _render_conflicts(response.get("conflicts") or [])
+
+    sources = response.get("sources") or []
+    answer_text = _rewrite_citations(
+        response.get("answer", "") or "",
+        sources,
+    )
 
     with st.container(border=True):
         st.markdown("### Answer")
-        st.markdown(response.get("answer", "") or "_(no answer returned)_")
+        st.markdown(answer_text or "_(no answer returned)_")
         st.markdown("---")
         _render_confidence(response.get("confidence", {}) or {})
         _render_metrics(response)
 
-    _render_escalation(response.get("escalation"), query, response)
+    _render_escalation(response.get("escalation"), query, response, key_suffix=key_suffix)
 
-    sources = response.get("sources") or []
     if sources:
-        with st.expander("Retrieved chunks"):
-            for i, doc in enumerate(sources, start=1):
-                meta = getattr(doc, "metadata", {}) or {}
-                src = meta.get("source", "Unknown")
-                page = meta.get("page")
-                header = f"**[Source {i}] {src}" + (f" · Pg. {page}" if page is not None else "") + "**"
-                st.markdown(header)
-                content = getattr(doc, "page_content", "") or ""
-                st.markdown(content[:800] + ("…" if len(content) > 800 else ""))
-                st.markdown("---")
+        with st.expander("Explore Sources"):
+            _render_source_cards(sources)
+
+
+_SOURCE_BADGE_COLORS: tuple[str, ...] = (
+    "#2563eb",  # blue
+    "#7c3aed",  # purple
+    "#db2777",  # pink
+    "#ea580c",  # orange
+    "#059669",  # green
+    "#0891b2",  # teal
+    "#ca8a04",  # amber
+    "#4f46e5",  # indigo
+)
+
+
+def _render_source_cards(sources: list) -> None:
+    """Badge + accent-line source cards inside the 'Explore Sources' expander."""
+    for i, doc in enumerate(sources, start=1):
+        color = _SOURCE_BADGE_COLORS[(i - 1) % len(_SOURCE_BADGE_COLORS)]
+        meta = getattr(doc, "metadata", {}) or {}
+        src = html.escape(str(meta.get("source", "Unknown")))
+        page = meta.get("page")
+        page_suffix = f" · Pg. {html.escape(str(page))}" if page is not None else ""
+
+        raw_content = getattr(doc, "page_content", "") or ""
+        trimmed = raw_content[:800] + ("…" if len(raw_content) > 800 else "")
+        content = html.escape(trimmed).replace("\n", "<br/>")
+
+        st.markdown(
+            f"""
+<div style="margin: 0 0 18px 0;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <span style="background: {color}; color: #fff; font-weight: 600;
+                 padding: 4px 12px; border-radius: 4px; font-size: 0.80rem;
+                 letter-spacing: 0.02em;">Source {i}</span>
+    <span style="font-weight: 600; color: #1a1a1a; font-size: 0.92rem;">
+      {src}{page_suffix}
+    </span>
+  </div>
+  <div style="border-left: 3px solid {color}; padding: 2px 0 2px 14px;
+              margin-left: 2px; color: #333; font-size: 0.92rem;
+              line-height: 1.55;">
+    {content}
+  </div>
+</div>
+""",
+            unsafe_allow_html=True,
+        )
 
 
 QUICK_QUESTIONS: tuple[tuple[str, str], ...] = (
@@ -151,7 +271,7 @@ QUICK_QUESTIONS: tuple[tuple[str, str], ...] = (
 
 
 def _set_query(template: str) -> None:
-    st.session_state["query_input"] = template
+    st.session_state["pending_query"] = template
 
 
 def _init_session_state() -> None:
@@ -161,9 +281,22 @@ def _init_session_state() -> None:
         "escalations_count":    0,
         "confidence_sum":       0.0,
         "confidence_n":         0,
+        "messages":             [],    # chat transcript (user + assistant turns)
+        "pending_query":        None,  # set by chip/history click; consumed next run
     }
     for key, value in defaults.items():
         st.session_state.setdefault(key, value)
+
+
+def _render_message(msg: dict, idx: int) -> None:
+    """Render a single chat turn inside an st.chat_message bubble."""
+    with st.chat_message(msg["role"]):
+        if msg["role"] == "user":
+            st.markdown(msg.get("content", ""))
+        elif msg.get("error"):
+            st.error(msg["error"])
+        else:
+            _render_answer(msg["response"], msg["query"], key_suffix=str(idx))
 
 
 def _record_answer_stats(query: str, response: dict) -> None:
@@ -184,7 +317,8 @@ def _record_answer_stats(query: str, response: dict) -> None:
 
 def _reset_session() -> None:
     for key in ("history", "queries_count", "escalations_count",
-                "confidence_sum", "confidence_n", "query_input"):
+                "confidence_sum", "confidence_n",
+                "messages", "pending_query"):
         if key in st.session_state:
             del st.session_state[key]
 
@@ -248,7 +382,7 @@ def _render_sidebar() -> None:
     Student <span style='color: {REVATURE_ORANGE};'>Assistant</span>
   </div>
   <div style='font-size: 0.78rem; color: #666; margin-top: 4px;'>
-    Grounded RAG · every claim cites its source
+    Say it. Source it.
   </div>
 </div>
 """,
@@ -498,40 +632,65 @@ def main() -> None:
             use_container_width=True,
         )
 
-    query = st.text_input(
-        "Your question",
-        key="query_input",
-        placeholder="e.g. What is the minimum attendance percentage?",
+    # ── Chat transcript ──────────────────────────────────────────────
+    for idx, msg in enumerate(st.session_state["messages"]):
+        _render_message(msg, idx)
+
+    st.markdown(
+        '<div class="rv-footer">Powered by Student Assistant</div>',
+        unsafe_allow_html=True,
     )
-    submit = st.button("Ask", key="ask_button", type="primary")
 
-    if submit and query.strip():
-        sanitized = safety_handler.sanitize_query(query.strip())
+    # ── Chat input (Streamlit pins st.chat_input to the viewport bottom) ──
+    pending = st.session_state.get("pending_query")
+    if pending:
+        st.session_state["pending_query"] = None
 
-        if not sanitized["safe"]:
-            st.error(
-                f"⛔ Query blocked — {sanitized['reason'].replace('_', ' ')}. "
-                f"This system ignores instructions that try to override its rules."
-            )
-            return
+    chat_prompt = st.chat_input(
+        placeholder="Ask about academic policies, exams, scholarships, placements..."
+    )
+    query = pending or chat_prompt
 
-        safe_query = sanitized["redacted_query"]
+    if not query or not query.strip():
+        return
 
+    sanitized = safety_handler.sanitize_query(query.strip())
+    if not sanitized["safe"]:
+        st.session_state["messages"].append(
+            {"role": "user", "content": query}
+        )
+        st.session_state["messages"].append(
+            {
+                "role": "assistant",
+                "error": (
+                    f"⛔ Query blocked — {sanitized['reason'].replace('_', ' ')}. "
+                    f"This system ignores instructions that try to override its rules."
+                ),
+            }
+        )
+        st.rerun()
+
+    safe_query = sanitized["redacted_query"]
+    st.session_state["messages"].append({"role": "user", "content": safe_query})
+
+    # Render the new user turn immediately so the spinner has context.
+    with st.chat_message("user"):
+        st.markdown(safe_query)
+    with st.chat_message("assistant"):
         with st.spinner("Retrieving and generating..."):
             try:
                 response = chain.answer(safe_query)
             except Exception as exc:
-                st.error(f"Chain error: {exc}")
-                return
+                st.session_state["messages"].append(
+                    {"role": "assistant", "error": f"Chain error: {exc}"}
+                )
+                st.rerun()
 
-        _record_answer_stats(safe_query, response)
-        _render_answer(response, safe_query)
-
-    st.markdown(
-        '<div class="rv-footer">Powered by UC4 RAG '
-        '<span class="dot">●</span> grounded answers only</div>',
-        unsafe_allow_html=True,
+    _record_answer_stats(safe_query, response)
+    st.session_state["messages"].append(
+        {"role": "assistant", "response": response, "query": safe_query}
     )
+    st.rerun()
 
 
 if __name__ == "__main__":

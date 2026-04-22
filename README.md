@@ -96,11 +96,3 @@ checking the exit code.
 - **Streamlit module errors** — confirm `streamlit` is on the active Python
   environment and `pip install -r requirements.txt` completed.
 
----
-
-## Documentation
-
-- [`docs/architecture/UC4_PIPELINE.md`](docs/architecture/UC4_PIPELINE.md) — pipeline diagram + per-module responsibilities.
-- [`docs/RUN_UC4.md`](docs/RUN_UC4.md) — operator runbook (prereqs, ingest, run, eval, troubleshoot).
-- [`docs/plans/2026-04-21-uc4-rag-student-assistant-plan.md`](docs/plans/2026-04-21-uc4-rag-student-assistant-plan.md) — the implementation plan this repo follows.
-- [`docs/commits/uc4-commits.md`](docs/commits/uc4-commits.md) — deferred git commands for the pivot (never applied locally yet).

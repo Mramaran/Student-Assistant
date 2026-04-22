@@ -94,3 +94,4 @@ _scratch_*
 # ─── Documentation (local-only, not shipped with repo) ────────────────────
 docs/
 .claude
+scripts

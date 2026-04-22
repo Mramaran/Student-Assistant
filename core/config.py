@@ -39,7 +39,7 @@ REFUSAL_MESSAGE = (
 )
 
 
-MODEL_NAME     = "mistral"
+
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIM   = 384  # output dimension of all-MiniLM-L6-v2
 RERANKER_MODEL  = "cross-encoder/ms-marco-MiniLM-L-6-v2"
