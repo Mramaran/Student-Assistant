@@ -600,12 +600,31 @@ def _inject_theme_css() -> None:
     )
 
 
+@st.cache_resource(show_spinner="Building the document index (first run only)...")
+def _ensure_index() -> None:
+    """Build the vector DB on hosts that start without one (e.g. Streamlit Cloud).
+
+    ``db/`` and ``bm25_docs.pkl`` are gitignored, so a fresh deploy has neither.
+    A leftover manifest would make build_db short-circuit, so drop it first.
+    """
+    from pathlib import Path
+
+    from build_db import BM25_CACHE, build_db
+    from core.config import DATA_DIR, DB_DIR
+
+    if (Path(DB_DIR) / "chroma.sqlite3").exists() and Path(BM25_CACHE).exists():
+        return
+    (Path(DATA_DIR) / "manifest.json").unlink(missing_ok=True)
+    build_db()
+
+
 def main() -> None:
     st.set_page_config(
         page_title="Student Assistant",
         page_icon="🎓",
         layout="wide",
     )
+    _ensure_index()
     _inject_theme_css()
     _init_session_state()
     _render_sidebar()
